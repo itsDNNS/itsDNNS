@@ -2,7 +2,7 @@
 
 **IT infrastructure by trade, tinkerer by nature.** Based in Germany.
 
-I like self-hosting, home automation, and understanding how networks actually behave.
+I like self-hosting, home automation, and making my infrastructure do exactly what I want.
 
 > I build tools that solve my own problems and share them openly.
 > If something I made is useful to you, great. Your feedback genuinely makes these projects better.
