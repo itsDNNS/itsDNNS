@@ -1,8 +1,8 @@
 # Dennis Braun
 
-**IT infrastructure by trade, tinkerer by nature.** Based in Germany.
+**IT professional by trade, tinkerer by nature.** Based in Germany.
 
-I like self-hosting, home automation, and making my infrastructure do exactly what I want.
+I like self-hosting, home automation, and making things work the way I want them to.
 
 > I build tools that solve my own problems and share them openly.
 > If something I made is useful to you, great. Your feedback genuinely makes these projects better.
