@@ -1,4 +1,4 @@
-# it,s me, Dennis
+# Dennis
 
 **IT professional by trade, tinkerer by nature.** Based in Germany.
 
